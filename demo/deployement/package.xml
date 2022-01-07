@@ -12,6 +12,10 @@
         <members>Account.testTextField__c</members>
         <name>CustomField</name>
     </types>
+    <types>
+        <members>unfiled$public/New_Contacts_Accounts_Report_vSX</members>
+        <name>Report</name>
+    </types>
     <version>52.0</version>
     <fullName>deploypackage</fullName>
 </Package>
